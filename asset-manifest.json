@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vchatapp.github.io/static/css/main.76ef0cc6.css",
+    "main.js": "/vchatapp.github.io/static/js/main.9da22066.js",
+    "static/js/453.4ea0fb50.chunk.js": "/vchatapp.github.io/static/js/453.4ea0fb50.chunk.js",
+    "static/media/Logo.png": "/vchatapp.github.io/static/media/Logo.bc9e72dd73f680b6a361.png",
+    "index.html": "/vchatapp.github.io/index.html",
+    "main.76ef0cc6.css.map": "/vchatapp.github.io/static/css/main.76ef0cc6.css.map",
+    "main.9da22066.js.map": "/vchatapp.github.io/static/js/main.9da22066.js.map",
+    "453.4ea0fb50.chunk.js.map": "/vchatapp.github.io/static/js/453.4ea0fb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ef0cc6.css",
+    "static/js/main.9da22066.js"
+  ]
+}
